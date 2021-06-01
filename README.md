@@ -1,9 +1,10 @@
+### `About`
 # Dancing-Finch
-
 This Java project was assigned to me during my first year of university.
 It involved coding a finch robot supplied to us with its basic functions.
 My task in particular was the Dancing Finch Task. This involved coding an algorithm that would convert a Hexadecimal number into its binary, octal and decimal equivalents.
 
+### `How`
 User would be prompted to enter a single , or double digit hexadecimal number(Hex.num), or choose to run the program using a randomly.generated Hex.num.
 Then, having converted the number, the program would instruct the finch robot to run.
 
